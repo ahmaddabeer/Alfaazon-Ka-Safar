@@ -6,6 +6,19 @@
       "life_cycle": "1950–2020",
       "nationality": "India",
       "image": "https://rekhta.pc.cdn.bitgravity.com/Images/Shayar/rahat-indori.png"
+    },
+    {
+      "name": "Allama Iqbal",
+      "life_cycle": "1877–1938",
+      "nationality": "British India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Allama_Iqbal_portrait.jpg"
+    },
+    {
+      "name": "Mirza Ghalib",
+      "life_cycle": "1797–1869",
+      "nationality": "India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mirza_Ghalib.jpg"
     }
+    // aur poets yahan add kar sakte ho...
   ]
 }
